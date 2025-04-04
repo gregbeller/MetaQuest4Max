@@ -1,6 +1,4 @@
-﻿	/* Copyright (c) 2020 ExT (V.Sigalkin) */
-
-/*
+﻿/*
  * Copyright (c) Synekine Project - Greg Beller.
  * All rights reserved.
 */
