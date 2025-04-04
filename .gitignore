@@ -72,3 +72,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+MetaQuest4Max/.DS_Store
+MetaQuest4Max/Unity/Assets/.DS_Store
+MetaQuest4Max/Unity/.DS_Store
+MetaQuest4Max/Unity/Assets/Scripts/.DS_Store
+MetaQuest4Max/Unity/Scenes/.DS_Store
+MetaQuest4Max/Unity/Scripts/.DS_Store
+/MetaQuest4Max/.vscode
